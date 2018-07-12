@@ -4,6 +4,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("asda");
+        System.out.println("手把手学好了");
     }
 }
